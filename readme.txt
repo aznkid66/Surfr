@@ -6,7 +6,7 @@ Installation instructions:
 4. Click the button labeled "Load unpacked extension..."
 5. Select this folder (Surfr Extension 0.6.2)
 
-WARNING: DISABLE/UNINSTALL THIS EXTENSION BEFORE DOING SENSITIVE WEB BROWSING
+WARNING: DISABLE/UNINSTALL THIS EXTENSION BEFORE BROWSING PAGES WHOSE URLS CONTAIN SENSITIVE INFORMATION
 
 Uninstallation instructions:
 
